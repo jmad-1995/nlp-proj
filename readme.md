@@ -7,3 +7,6 @@ Group members: Deepika Patra, Vinay Peravalli, Chandu Kamanuru, Vinay Madhav Jon
 3. Trying to re-create the DFGN model. Done with pre-processing but facing a lot of issues in training.
 4. Reading theory about hugging face transformer and looking into the github repo(https://github.com/huggingface/transformers) 
    for the same. Discussing ideas about how to implement a hugging face transformer model to our dataset.
+
+model.pt under releases tab is the model generated after running the baseline model.
+
